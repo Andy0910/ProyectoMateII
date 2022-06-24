@@ -1,0 +1,10 @@
+---
+title: "Proyecto mate II"
+author: "Brand"
+date: "6/23/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
